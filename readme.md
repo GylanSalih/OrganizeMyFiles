@@ -1,4 +1,4 @@
-```markdown
+
 # File Sorter
 
 This Python script automatically organizes files in a specified directory (e.g., your Downloads folder) into categorized subfolders based on their file types. The script supports a wide range of file extensions and can handle duplicates, empty folders, and logs its actions.
