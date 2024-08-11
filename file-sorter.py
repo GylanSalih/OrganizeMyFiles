@@ -29,7 +29,7 @@ file_types = {
 }
 
 # Logging configuration
-logging.basicConfig(filename='file_sorting.log', level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
+logging.basicConfig(filename='OrganizeMyFiles.log', level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
 
 
 def sort_files():
