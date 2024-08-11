@@ -22,7 +22,7 @@ This Python script automatically organizes files in a specified directory (e.g.,
 2. **Navigate to the project directory**:
 
    ```bash
-   cd file-sorter
+   cd OrganizeMyFiles
    ```
 
 3. **Install dependencies** (if any):
