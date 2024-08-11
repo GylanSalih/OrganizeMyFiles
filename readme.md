@@ -41,7 +41,7 @@ This Python script automatically organizes files in a specified directory (e.g.,
 3. Run the script:
 
    ```bash
-   python file_sorter.py
+   python OrganizeMyFiles.py
    ```
 
 4. The script will organize files into subfolders within the specified directory based on their file types.
@@ -62,7 +62,7 @@ Add or remove extensions as needed to fit your specific requirements.
 
 ## Logging
 
-The script creates a `file_sorting.log` file in the project directory, where it logs all actions such as successful file moves, error messages, and deleted empty folders.
+The script creates a `OrganizeMyFiles.log` file in the project directory, where it logs all actions such as successful file moves, error messages, and deleted empty folders.
 
 ## Contributing
 
