@@ -1,7 +1,11 @@
 <!-- Header Animated Image BEGIN -->
 <p align="center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=000000&fontColor=FF0000&text=Welcome!&fontSize=90&animation=twinkling&fontAlignY=30&desc=If%20my%20Repositories%20can%20help%20you%2C%20I%20would%20be%20more%20than%20Happy%20to%20Assist.&descSize=24" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=000000&fontColor=FF0000&text=Welcome!&fontSize=90&animation=twinkl![s-l1200_upscayl_1x_ultrasharp](https://github.com/user-attachments/assets/7d0868d1-f9a4-4ba3-bb76-79a92b59eb73)
+ing&fontAlignY=30&desc=If%20my%20Repositories%20can%20help%20you%2C%20I%20would%20be%20more%20than%20Happy%20to%20Assist.&descSize=24" />
 </p>
+
+
+![Uploading s-l1200_upscayl_1x_ultrasharp.png…]()
 
 
 <a id="readme-top"></a>
