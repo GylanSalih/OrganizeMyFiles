@@ -1,4 +1,5 @@
-<!-- Header Animated Image BEGIN -->
+# My Project
+
 <p align="center">
     ![s-l1200_upscayl_1x_ultrasharp](https://github.com/user-attachments/assets/c52cb648-c19d-4368-89c1-13ddba2327ae)
 </p>
