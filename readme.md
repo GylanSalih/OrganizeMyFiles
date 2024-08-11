@@ -16,7 +16,7 @@ This Python script automatically organizes files in a specified directory (e.g.,
 1. **Clone the repository**:
 
    ```bash
-   git clone https://github.com/your-username/file-sorter.git
+   git clone https://github.com/GylanSalih/OrganizeMyFiles
    ```
 
 2. **Navigate to the project directory**:
